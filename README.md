@@ -1,6 +1,8 @@
-# Bonjour, je m'appelle Aymeric, 
+# Bonjour, je m'appelle Aymeric
 
-je suis étudiant développeur informatique, passionné par l'idée de créer ce qui se cache derrière ce que voit le client
+Je suis étudiant développeur d'applications, passionné par l'idée de créer ce qui se cache derrière ce que voit le client.
+
+Vous pouvez trouver ci-dessous des exemples de mes projets réalisés, en cours, et des idées que j'aimerai réaliser plus tard :
 
 # Mes projets
 
@@ -14,7 +16,7 @@ je suis étudiant développeur informatique, passionné par l'idée de créer ce
 Lien : https://github.com/aymkoub/Skyjo
 
 ## Projet étudiant
-
+Mes projets réalisés en équipe au cours de mes études : 
 ### Mastermind
 Lien : https://github.com/aymkoub/Mastermind
 
