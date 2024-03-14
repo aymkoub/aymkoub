@@ -13,7 +13,7 @@ Lien : https://github.com/aymkoub/Skyjo
 ### Mastermind
 Lien : https://github.com/aymkoub/Mastermind
 
-### Projet tutoré T3
+### Projet tutoré jeu sérieux
 Lien : https://github.com/aymkoub/T3
 
 ## Projets à venir
